@@ -1,6 +1,6 @@
 {
   "name": "vue-jsmol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/vue-jsmol.umd.js",
   "module": "dist/vue-jsmol.es.js",
   "types": "types/index.d.ts",
@@ -9,6 +9,7 @@
     "types",
     "src/assets"
   ],
+  "keywords": ["vue", "jsmol"],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
